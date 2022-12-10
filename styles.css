@@ -1,0 +1,107 @@
+body{
+    background-color: rgb(143, 162, 214);
+    margin-top: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 20px;
+}
+
+li a:hover {
+    color: #8f8e8e;}
+li {
+        float: left;
+        padding-left: 30px;
+        border: 2px;
+        text-align: left;
+      }
+      li a {
+        display: block;
+        color: white;
+        text-align: right;
+        padding: 16px;
+        text-decoration: none;
+      }
+      ul.top {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #a3b8f1;
+        overflow:none;
+
+box-shadowbox: inset -248px 115px 109px rgba(18, 24, 39, 0.01), inset -139px 65px 92px rgba(18, 24, 39, 0.05), inset -62px 29px 68px rgba(18, 24, 39, 0.09), inset -15px 7px 38px rgba(18, 24, 39, 0.1);
+      }
+      div.col-md-8{
+        position: absolute;
+width: 94px;
+height: 39px;
+left: 148px;
+top: 53px;
+
+font-family: 'Istok Web';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 46px;
+
+color: #000000;
+
+
+      }
+ p.textsize{
+    width: 400px;
+    height: min-content;
+ }
+ .textsize{
+  width: 300px;
+ }
+ img{
+  position: absolute;
+width: 373px;
+right: 373px;
+top: +18.71%;
+bottom: 10.34%;
+
+background: url(Untitled1_20210902104205.png);
+background-blend-mode: lighten;
+mix-blend-mode: none;
+box-shadow: inset -8px 0px 16px rgba(0, 0, 0, 0.08);
+filter: blur(2px);
+border-radius: 30px;
+
+ }
+ div.midfont{
+  font-family: Arial;
+  font-size: large;
+ }
+ button.first{
+  background-color: aliceblue;
+  stroke: none;
+  width: 100px;
+  height: 30px;
+  border-radius: 10px;
+ }
+ button.first:hover{
+  background-color: red;
+  transition: 0.4s ease-in-out;
+
+ }
+ div.im{
+  margin-top: 0px;
+  margin-bottom: 100px;
+  margin-right: 0px;
+  margin-left: 600px;
+  align-content: auto;
+ }
+ ul. lo{
+  float: right;
+  overflow: scroll;
+
+box-shadowbox: inset -248px 115px 109px rgba(18, 24, 39, 0.01), inset -139px 65px 92px rgba(18, 24, 39, 0.05), inset -62px 29px 68px rgba(18, 24, 39, 0.09), inset -15px 7px 38px rgba(18, 24, 39, 0.1);
+ }
+ ul. bu{
+  background-color: aliceblue;
+  box-shadow: #8f8e8e;
+  width: 10vw;
+  height: 10vw;
+ }
